@@ -1,0 +1,7 @@
+argparse
+numpy
+python-osc
+tqdm
+pydub
+praat-parselmouth
+unidecode
